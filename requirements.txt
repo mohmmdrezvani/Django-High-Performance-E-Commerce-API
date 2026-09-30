@@ -1,0 +1,14 @@
+Django>=5.0
+djangorestframework
+djangorestframework-simplejwt
+django-filter
+drf-spectacular
+Pillow
+requests
+redis
+celery
+psycopg2-binary
+pytest
+pytest-django
+flower
+gunicorn==22.0.0
